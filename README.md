@@ -10,7 +10,7 @@ El objetivo del trabajo es estimar la temperatura del rotor de un motor síncron
 
 ## Dataset utilizado
 
-El conjunto de datos empleado corresponde al dataset público Electric Motor Temperature, disponible en [Kaggle](https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature/data)
+El conjunto de datos empleado corresponde al dataset público Electric Motor Temperature, disponible en [Kaggle](https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature/data).
 Por motivos de tamaño y organización, el dataset no se incluye directamente en este repositorio. Para ejecutar el notebook, debe descargarse previamente el archivo de datos original y colocarse en la ruta indicada dentro del propio código.
 
 ## Modelo desarrollado
