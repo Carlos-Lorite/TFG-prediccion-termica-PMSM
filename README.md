@@ -30,6 +30,6 @@ En el conjunto de prueba, el modelo final obtiene:
 
 ## Autor
 
-Carlos Lorite Fuentes
-Grado en Ingeniería Mecánica
-Universidad de Málaga
+* Carlos Lorite Fuentes
+* Grado en Ingeniería Mecánica
+* Universidad de Málaga
